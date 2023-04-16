@@ -1,4 +1,3 @@
-# AtividadeLPII
 Exercícios de Fixação utilizando linguagem Java
 
 # Exercício 1 - Com base no diagrama de classes abaixo, implemente um projeto orientado a objetos contendo as abstrações representadas e considerando as seguintes instruções:
