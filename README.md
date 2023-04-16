@@ -3,9 +3,10 @@ Exercícios de Fixação utilizando linguagem Java
 # Exercício 1 - Com base no diagrama de classes abaixo, implemente um projeto orientado a objetos contendo as abstrações representadas e considerando as seguintes instruções:
 
 package: edu.fatec.lp2.exercicio1 (organizar as classes e outros pacotes dentro deste) contatos e mensagens são Arrays inicializados via construtor;    
-Todos os atributos são privados;    
-A classe abstrata Mensagem deve possuir um método abstrato Mensagem sendMessage(String);  
-Mensagem sendMessage(String) deve retornar a sua própria instância.  
+- Todos os atributos são privados;    
+- A classe abstrata Mensagem deve possuir um método abstrato Mensagem sendMessage(String);  
+- Mensagem sendMessage(String) deve retornar a sua própria instância.  
+![ajRkW](https://user-images.githubusercontent.com/83841092/232342254-d35d0dca-56e8-4ba9-8ed8-f1f2e559db88.png)
 
 
 # Exercício 2 - Seu Astolfo recentemente adquiriu uma rede de supermercados e contratou a Você S.A., empresa especializada no desenvolvimento de soluções informatizadas, para implementar uma prova de conceito referente ao seu domínio de compras.
@@ -26,3 +27,7 @@ package: edu.fatec.lp2.exercicio2 (organizar as classes e outros pacotes dentro 
 - Deve haver uma ação na lista de compras que calcule o preço total da lista de compras
 - As abstrações de item de compra e lista de compra deverão respeitar uma interface comum
 - Dadas as necessidades do Seu Astolfo e assumindo-se que todas as classes possuem métodos getter e setter (usar Lombok ou gerá-las através da IDE), vamos ajudar o Seu - Astolfo a implementar as abstrações representadas no diagrama de classes abaixo e a lógica necessária para atender tais necessidades. Mãos à obra!
+- ![picture1](https://user-images.githubusercontent.com/83841092/232342266-51a6f429-0333-43f5-a813-683e7fb18604.png)
+
+
+
