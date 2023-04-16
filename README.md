@@ -10,7 +10,7 @@ A classe abstrata Mensagem deve possuir um método abstrato Mensagem sendMessage
 Mensagem sendMessage(String) deve retornar a sua própria instância.
 
 
-#Exercício 2 - Seu Astolfo recentemente adquiriu uma rede de supermercados e contratou a Você S.A., empresa especializada no desenvolvimento de soluções informatizadas, para implementar uma prova de conceito referente ao seu domínio de compras.
+# Exercício 2 - Seu Astolfo recentemente adquiriu uma rede de supermercados e contratou a Você S.A., empresa especializada no desenvolvimento de soluções informatizadas, para implementar uma prova de conceito referente ao seu domínio de compras.
 
 Para isso ele considerou as seguintes regras como sendo suas necessidades:
 
